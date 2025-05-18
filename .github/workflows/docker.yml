@@ -1,5 +1,5 @@
 name: Docker Build and Push
-# Выполняю 4 лабу
+# Выполняю 4 лабу, попытка номер "много"
 on:
   push:
     branches: [ "master" ]
